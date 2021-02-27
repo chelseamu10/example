@@ -1,0 +1,7 @@
+<form>
+	<lable>USERNAME</lable>
+	<input type="text" name="username" />
+	<lable>PASSWORD</lable>
+	<input type="password" name="username" />
+	<input type="submit" value="submit" />
+</form>
